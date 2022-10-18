@@ -1,0 +1,24 @@
+
+2022/02/23 (20:46:03) | ===> btop++ v.1.2.3
+2022/02/23 (20:46:03) | ERROR: Stall in Runner thread, restarting!
+
+2022/02/24 (21:00:34) | ===> btop++ v.1.2.3
+2022/02/24 (21:00:34) | ERROR: Stall in Runner thread, restarting!
+
+2022/03/15 (12:08:55) | ===> btop++ v.1.2.3
+2022/03/15 (12:08:55) | ERROR: Stall in Runner thread, restarting!
+
+2022/03/16 (15:46:39) | ===> btop++ v.1.2.3
+2022/03/16 (15:46:39) | ERROR: Stall in Runner thread, restarting!
+
+2022/04/27 (14:46:22) | ===> btop++ v.1.2.3
+2022/04/27 (14:46:22) | ERROR: Exception in runner thread -> Proc:: -> wstring_convert::from_bytes
+
+2022/05/11 (21:00:38) | ===> btop++ v.1.2.3
+2022/05/11 (21:00:38) | ERROR: Stall in Runner thread, restarting!
+
+2022/06/02 (12:21:02) | ===> btop++ v.1.2.6
+2022/06/02 (12:21:02) | ERROR: Stall in Runner thread, restarting!
+
+2022/06/20 (19:37:37) | ===> btop++ v.1.2.6
+2022/06/20 (19:37:37) | ERROR: Stall in Runner thread, restarting!
