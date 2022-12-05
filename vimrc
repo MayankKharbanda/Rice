@@ -18,6 +18,7 @@ Plugin 'Konfekt/FastFold'
 Plugin 'morhetz/gruvbox'
 Plugin 'tpope/vim-fugitive'
 Plugin 'easymotion/vim-easymotion'
+Plugin 'preservim/nerdtree'
 call vundle#end()
 
 " Enable familiar backspace settings
@@ -285,7 +286,7 @@ inoremap <C-B> <C-G>u<Esc>[s1zg``a<C-G>u
 
 "Spellchecking on
 set spell
-
+set clipboard=unnamed
 " Automatically change pwd to current file
 set autochdir
 
